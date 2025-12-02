@@ -1,0 +1,13 @@
+{
+  "projectId": "65b88889-8698-4ddc-b944-c1f63d3df9ab",
+  "webhookUrl": "https://vibe-coding-platform-h2oj07pbr-amresh-mishras-projects.vercel.app/api/claude-code/progress",
+  "hooks": {
+    "enabled": true,
+    "events": [
+      "SessionStart",
+      "SessionEnd",
+      "PreToolUse",
+      "PostToolUse"
+    ]
+  }
+}
